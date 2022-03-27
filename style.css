@@ -28,7 +28,9 @@ body{
 .edu-info{
  border-top: 20px;
   
-  
+}
+h5 {
+    margin-top: 0;
 }
 .exp-header{
   text-transform: uppercase;
