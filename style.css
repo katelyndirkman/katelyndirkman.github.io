@@ -10,6 +10,7 @@
   padding-bottom: 10px;
 }
 
+
 body{
   background-color: #444444;
   color: #dddddd;
@@ -21,10 +22,14 @@ body{
 .edu-header{
   text-transform: uppercase;
   line-height: 1px;
-  border-bottom: 1px solid white;
 
 }
 
+table{
+  font-size: 12px;
+  margin-bottom: 10px;
+  
+}
 .edu-info{
  border-top: 20px;
   
