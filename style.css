@@ -17,6 +17,12 @@ body{
   padding-bottom: 10px;
 }
 
+img{
+  height: 100px;
+  padding-left: 100%;
+  
+}
+
 .edu-info h4{
   border-bottom: 1px solid white;
   margin: 0;
@@ -77,6 +83,8 @@ table.table3{
 
 .worktwo dl{
   font-size: 12px;
+  padding-left: 5%;
+  
   
 }
 dt{
