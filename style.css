@@ -1,12 +1,12 @@
 body{
-  background-color: #444444;
-  color: #dddddd;
+  background-color: white;
+  color: #C03618;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
 }
 
 .header{
- border-bottom: 1px solid white;
+ border-bottom: 1px solid black;
  line-height: 1px;
   
 }
@@ -19,12 +19,14 @@ body{
 
 img{
   height: 100px;
-  padding-left: 100%;
+  transform: rotate(90deg);
+  float: right;
+  
   
 }
 
 .edu-info h4{
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid black;
   margin: 0;
 }
 
