@@ -60,13 +60,31 @@ table.table2{
   font-size: 12px;
   margin-bottom: 8px;
   line-height: 1;
-  
+ 
 }
+
+.workone ul{
+    font-size: 12px;
+  }
+
 
 table.table3{
   font-size: 12px;
   margin-bottom: 8px;
   line-height: 1;
+}
+
+
+
+.worktwo dl{
+  font-size: 12px;
   
+}
+dt{
+    display: list-item;
+    list-style-type: disc;
+    }
+.worktwo dt{
+  text-decoration: underline;
 }
 
