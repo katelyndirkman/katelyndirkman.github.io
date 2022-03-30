@@ -24,17 +24,29 @@ img{
   transform: rotate(90deg);
   float: right;
   
-  
+}
+.edu-header h3{
+  font-size: 35px;
+  text-transform: uppercase;
+  line-height: 1px;
+  padding-top: 50px;
 }
 
 .edu-info h4{
   border-bottom: 1px solid black;
   margin: 0;
+  font-size: 18px;
+}
+
+table.table1{
+  font-size: 14px;
+  margin-bottom: 8px;
 }
 
 .edu-info h5{
   margin-bottom: 5px;
   font-size: 15px;
+  margin: 5px;
 }
 
 .edu-info ul{
@@ -42,47 +54,38 @@ img{
   font-size: 15px;
 }
 
-.edu-header{
+.exp-header h3{
+ font-size: 35px;
   text-transform: uppercase;
   line-height: 1px;
-  padding-top: 50px;
-  font-size: 25px;
-
+  padding-top: 30px;
 }
 
-table.table1{
-  font-size: 14px;
-  margin-bottom: 8px;
-  
-}
-.edu-info{
- border-top: 20px;
-  
-}
 
-h5.jobone {
-    margin-top: 0;
-  margin-bottom: 0px;
-  font-size: 15px;
-}
-
-.exp-header h3{
- text-transform: uppercase;
- margin-top: 40px;
-  font-size: 25px;
+.workone h4{
+  font-size: 18px;
 }
 
 table.table2{
   font-size: 14px;
   margin-bottom: 8px;
-  line-height: 1;
- 
+  line-height: 1; 
+}
+
+.workone h5{
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .workone ul{
     font-size: 14px;
-  
+  margin-top: 1;
   }
+
+.worktwo h4{
+  font-size:18px;
+}
 
 table.table3{
   font-size: 14px;
@@ -90,19 +93,18 @@ table.table3{
   line-height: 1;
 }
 
-h5.jobtwo {
-    margin-top: 0;
-  margin-bottom: 5px;
-  font-size: 15px;
+.worktwo h5{
+  font-size:15px;
+  margin-top:0;
+  margin-bottom: 0;
 }
 
 .worktwo dl{
   font-size: 14px;
   padding-left: 5%;
-  margin-top: 0;
-  
-  
+  margin-top: 1; 
 }
+
 dt{
     display: list-item;
     list-style-type: disc;
