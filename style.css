@@ -60,6 +60,7 @@ table.table1{
   margin-top: 0;
   font-size: 16px;
   color: black;
+  list-style: square;
 }
 
 .experience h3{
@@ -93,6 +94,7 @@ table.table2{
     font-size: 16px;
   margin-top: 1;
   color: black;
+  list-style: square;
   }
 
 .worktwo h4{
@@ -123,7 +125,7 @@ table.table3{
 
 dt{
     display: list-item;
-    list-style-type: disc;
+    list-style-type: square;
     }
 .worktwo dt{
   text-decoration: underline;
